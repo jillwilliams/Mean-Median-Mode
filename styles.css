@@ -1,0 +1,16 @@
+body {
+    font-size: 1.5rem;
+    color: lightgreen;
+    background-color: black;
+    margin: 15px 15px 45px 15px;
+    letter-spacing: 3px;
+    font-family: "Indie Flower", sans-serif;
+    text-align: center;
+}
+h1, p {
+    font-family: "Indie Flower", sans-serif;
+    text-align: center;
+}
+footer {
+        text-align: center;
+}
