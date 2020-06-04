@@ -11,6 +11,32 @@ h1, p {
     font-family: "Indie Flower", sans-serif;
     text-align: center;
 }
+#myBtn, #myBtn1, #myBtn2 {
+    height: 60px;
+    width: auto;
+    border-color: tomato;
+    background-color: lightgreen;
+    color: black;
+    font-family: "Indie Flower", sans-serif;
+    font-size: 2rem;
+
+}
+#demo, #demo1, #demo2 {
+    width: 100%;
+    height: 60px:
+    color: lightgreen;
+
+}
+#myBtn3, #myBtn4, #myBtn5 {
+    height: 30px;
+    width: auto;
+    border-color: tomato;
+    background-color: lightgreen;
+    color: black;
+    font-family: "Indie Flower", sans-serif;
+    font-size: 1rem;
+    margin: 5px;
+}
 footer {
         text-align: center;
 }
