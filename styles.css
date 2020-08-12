@@ -19,13 +19,11 @@ h1, p {
     color: black;
     font-family: "Indie Flower", sans-serif;
     font-size: 2rem;
-
 }
 #demo, #demo1, #demo2 {
     width: 100%;
     height: 60px:
     color: lightgreen;
-
 }
 #myBtn3, #myBtn4, #myBtn5 {
     height: 30px;
@@ -36,6 +34,9 @@ h1, p {
     font-family: "Indie Flower", sans-serif;
     font-size: 1rem;
     margin: 5px;
+}
+iframe {
+    border: 2px lightgreen solid;
 }
 footer {
         text-align: center;
